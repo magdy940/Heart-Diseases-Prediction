@@ -62,7 +62,7 @@ The app can be deployed on Streamlit Community Cloud.
 
 To run locally:
 
-git clone https://github.com/your-username/heart-disease-prediction-app.git
+git clone (https://heart-diseases-prediction-mxqmsjmvvd6pqf2vooqlsw.streamlit.app/)
 cd heart-disease-prediction-app
 pip install -r requirements.txt
 streamlit run app.py
