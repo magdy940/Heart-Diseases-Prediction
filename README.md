@@ -60,13 +60,8 @@ Classifier: Logistic Regression
 
 The app can be deployed on Streamlit Community Cloud.
 
-To run locally:
-
-git clone (https://heart-diseases-prediction-mxqmsjmvvd6pqf2vooqlsw.streamlit.app/)
-cd heart-disease-prediction-app
-pip install -r requirements.txt
-streamlit run app.py
+(https://cardio-ai-predict.streamlit.app/)
 
 📌 Example
 
-Input your medical details in the web form → Click "Predict" → Get instant prediction (Heart Disease: Yes / No).
+Input your medical details in the web form → Click "Predict" → Get instant prediction (Heart Disease: Yes / No) and probability.
